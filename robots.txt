@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laubravo.github.io/al-folio/sitemap.xml
