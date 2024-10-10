@@ -363,11 +363,11 @@ filtered_bibtex_keywords:
     paper,
     poster,
     preview,
+    project_page,
     selected,
     slides,
     supp,
     video,
-    project_page,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
