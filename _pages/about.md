@@ -21,4 +21,4 @@ My research focuses on understanding human social interaction and behavior throu
 
 Previously I obtained my M.Sc and B.Sc at [Universidad de los Andes](https://www.uniandes.edu.co/es) in Biomedical Engineering and worked on computer vision for surgical scene understanding under [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es).
 
-You can [download my CV here](/assets/pdf/CV_LBS.pdf).
+You can [download my CV here](/assets/pdf/resume_LBS.pdf).
