@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The preprint for our latest work on tacklin data scarcity for human interactions is out<a href="https://arxiv.org/abs/2410.00309">on arxiv</a>.
+The preprint for our latest work on tacklin data scarcity for human interactions is out <a href="https://arxiv.org/abs/2410.00309">on arxiv</a>.
