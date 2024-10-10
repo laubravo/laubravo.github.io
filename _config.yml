@@ -360,14 +360,14 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
-    pdf,
+    paper,
     poster,
     preview,
     selected,
     slides,
     supp,
     video,
-    website,
+    project_page,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
